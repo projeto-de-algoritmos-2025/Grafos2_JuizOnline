@@ -1,6 +1,6 @@
 # Dark Roads
 
-![questao_darkroads](../../assets/dark_roads/questao_dark_roads.png)
+![questao_darkroads](../../assets/dark_roads/dark_roads_questao.png)
 
 ## Contextualização
 
@@ -20,8 +20,7 @@ Dessa forma, somar o custo total de todas as estradas da cidade, ordenar as estr
 
 ## Resultado
 
-![codigo_darkroads](../../assets/dark_roads/dark_roads.png)
+![codigo_darkroads](../../assets/dark_roads/dark_roads_accepted.png)
 
-O algoritmo obteve sucesso em todos os testes, retornando o valor correto da economia possível. A lógica aplicada atendeu perfeitamente à proposta do problema e garantiu conectividade com o menor custo.
-"""
+O algoritmo obteve sucesso em todos os testes, retornando o valor correto, garantindo conectividade com o menor custo.
 
