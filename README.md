@@ -19,8 +19,8 @@ Tabela com os links para as devidas questões.
 
 | Problema                                                                                 | Dificuldade | Método        | Solução Código                                                                  | Solução comentada                                                               |
 | ---------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Beecrowd 1123 - Desvio de rota](https://judge.beecrowd.com/pt/problems/view/1123)       | Médio (4)   | Dijkstra      |                                                                                 |                                                                                 |
-| [Beecrowd 1806 - Agente 004](https://judge.beecrowd.com/pt/problems/view/1806)           | Dificil (7) | Dijkstra      |                                                                                 |
+| [Beecrowd 1123 - Desvio de rota](https://judge.beecrowd.com/pt/problems/view/1123)       | Médio (4)   | Dijkstra      |  [Desvio_de_rotas.py](grafos-2\beecrowd-1123-desvio_de_rota\1123.py)                                                                               | [desvio_rotas.md](Grafos2_JuizOnline\grafos-2\beecrowd-1123-desvio_de_rota\desvio_rota.md)                                                                                |
+| [Beecrowd 1806 - Agente 004](https://judge.beecrowd.com/pt/problems/view/1806)           | Dificil (7) | Dijkstra      |   [Agente_004.py](grafos-2\beecrowd-1806-agente-004\1806.py)                                                                              | [agente_004.md](Grafos2_JuizOnline\grafos-2\beecrowd-1806-agente-004\agente_004.md)
 | [Beecrowd 1539 - Empresa de telefonia](https://judge.beecrowd.com/pt/problems/view/1539) | Difícil (6) | Dijkstra      | [telecom_company.py](grafos-2/beecrowd-1539-telecom_company/telecom_company.py) | [telecom_company.md](grafos-2/beecrowd-1539-telecom_company/telecom_company.md) |
 | [Beecrowd 1152 - Estradas escuras](https://judge.beecrowd.com/en/problems/view/1152)     | Médio (5)   | Kruskal (MST) | [dark_roads.py](grafos-2/beecrowd-1152-dark_roads/dark_roads.py)                | [dark_roads.md](grafos-2/beecrowd-1152-dark_roads/dark_roads.md)                |
 
@@ -38,6 +38,6 @@ Tabela com os links para as devidas questões.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/grafos1_onlineJudge.git
+git clone https://github.com/projeto-de-algoritmos-2025/grafos2_onlineJudge.git
 
 ```
