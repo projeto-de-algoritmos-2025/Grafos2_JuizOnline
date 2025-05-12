@@ -17,15 +17,12 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina P
 
 Tabela com os links para as devidas questões.
 
-| Problema                                                                              | Dificuldade | Método                        | Solução Código                                                                                        | Solução comentada                                                                        |
-| ------------------------------------------------------------------------------------- | ----------- | ----------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [Beecrowd 1123 - Desvio de rota](https://judge.beecrowd.com/pt/problems/view/1123)   | Médio (4) | Dijkstra              |  | |
-| [Beecrowd 1806 - Agente 004](https://judge.beecrowd.com/pt/problems/view/1806) | Dificil (7)   | Dijkstra                           |                  |
-| [Beecrowd 1539 - Empresa de telecom](https://judge.beecrowd.com/pt/problems/view/1539)   | Dificil (6)   |  |                       |                         |
-|   [Beecrowd 1152 - Dark Roads](https://judge.beecrowd.com/en/problems/view/1152)     | médio (5) | BFS (Dijkstra)     |                            |                             |
-
-
-
+| Problema                                                                                 | Dificuldade | Método        | Solução Código                                                                  | Solução comentada                                                               |
+| ---------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [Beecrowd 1123 - Desvio de rota](https://judge.beecrowd.com/pt/problems/view/1123)       | Médio (4)   | Dijkstra      |                                                                                 |                                                                                 |
+| [Beecrowd 1806 - Agente 004](https://judge.beecrowd.com/pt/problems/view/1806)           | Dificil (7) | Dijkstra      |                                                                                 |
+| [Beecrowd 1539 - Empresa de telefonia](https://judge.beecrowd.com/pt/problems/view/1539) | Difícil (6) | Dijkstra      | [telecom_company.py](grafos-2/beecrowd-1539-telecom_company/telecom_company.py) | [telecom_company.md](grafos-2/beecrowd-1539-telecom_company/telecom_company.md) |
+| [Beecrowd 1152 - Estradas escuras](https://judge.beecrowd.com/en/problems/view/1152)     | Médio (5)   | Kruskal (MST) | [dark_roads.py](grafos-2/beecrowd-1152-dark_roads/dark_roads.py)                | [dark_roads.md](grafos-2/beecrowd-1152-dark_roads/dark_roads.md)                |
 
 ## Instalação
 
