@@ -22,7 +22,7 @@ Tabela com os links para as devidas questões.
 | [Beecrowd 1123 - Desvio de rota](https://judge.beecrowd.com/pt/problems/view/1123)   | Médio (4) | Dijkstra              |  | |
 | [Beecrowd 1806 - Agente 004](https://judge.beecrowd.com/pt/problems/view/1806) | Dificil (7)   | Dijkstra                           |                  |
 | [Beecrowd 1539 - Empresa de telecom](https://judge.beecrowd.com/pt/problems/view/1539)   | Dificil (6)   |  |                       |                         |
-|       |  |      |                            |                             |
+|   [Beecrowd 1152 - Dark Roads](https://judge.beecrowd.com/en/problems/view/1152)     | médio (5) | BFS (Dijkstra)     |                            |                             |
 
 
 
