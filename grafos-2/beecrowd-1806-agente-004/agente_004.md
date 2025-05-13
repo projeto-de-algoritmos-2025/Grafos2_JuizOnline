@@ -42,4 +42,4 @@ O total representa os criminosos que ele terá que eliminar.
 
 O resultado infelizmente não foi satisfatório tendo em vista que atingi apenas 80% de acerto.
 
-![Resultado](../..\assets\agente004\agente_80%.png)
+![resultado_agente004](../../assets/agente004/agente_80.png)
