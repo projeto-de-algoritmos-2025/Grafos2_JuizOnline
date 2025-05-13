@@ -16,7 +16,8 @@ Dessa forma, somar o custo total de todas as estradas da cidade, ordenar as estr
 
 ## Código
 
-[Código](../codigo/dark_roads.py)
+[Código](grafos-2/beecrowd-1152-dark_roads/dark_roads.py)
+
 
 ## Resultado
 
