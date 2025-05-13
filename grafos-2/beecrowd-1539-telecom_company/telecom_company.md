@@ -25,6 +25,6 @@ Se não houver caminho entre duas antenas, a resposta para a consulta é -1. Cas
 
 ## Resultado
 
-![codigo_telecom](../../assets/telecom_company/telecom_company_accepted.png)
+![questao_telecom](../../assets/telecom_company/telecom_company_questao.png)
 
 O algoritmo funcionou corretamente em todos os casos de teste fornecidos, identificando caminhos válidos entre antenas e retornando o menor custo quando possível. Quando não havia como estabelecer comunicação, a resposta foi corretamente marcada como -1.
