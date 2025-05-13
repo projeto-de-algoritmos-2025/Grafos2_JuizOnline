@@ -17,3 +17,11 @@ A ideia é usar o algoritmo de Dijkstra para encontrar o caminho mais barato com
 - Para as cidades dentro da rota (de 0 até C−1), só permitimos conexões entre vizinhas diretas (ex: de 0 para 1, de 1 para 2 etc.), porque a ordem deve ser seguida.
 - Para o resto das cidades (fora da rota), as conexões são normais, como num grafo comum.
 - Por fim, apliquei o Dijkstra a partir da cidade em que o veículo foi consertado (cidade K), buscando o menor custo para chegar até a última cidade da rota (C−1), obedecendo essas restrições. 
+
+
+
+# Resultado
+
+O resultado foi satisfatório tendo em vista que atingi 100% de acerto.
+
+![Resultado](../..\assets\desvio_de_rota\desvio_accepted.png)
