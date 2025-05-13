@@ -24,6 +24,11 @@ Tabela com os links para as devidas questões.
 | [Beecrowd 1539 - Empresa de telefonia](https://judge.beecrowd.com/pt/problems/view/1539) | Difícil (6) | Dijkstra      | [telecom_company.py](grafos-2/beecrowd-1539-telecom_company/telecom_company.py) | [telecom_company.md](grafos-2/beecrowd-1539-telecom_company/telecom_company.md) |
 | [Beecrowd 1152 - Estradas escuras](https://judge.beecrowd.com/en/problems/view/1152)     | Médio (5)   | Kruskal (MST) | [dark_roads.py](grafos-2/beecrowd-1152-dark_roads/dark_roads.py)                | [dark_roads.md](grafos-2/beecrowd-1152-dark_roads/dark_roads.md)                |
 
+## Apresentações em vídeo
+
+
+[![Assista no YouTube](https://img.youtube.com/vi/7f_nmKA1kvI/0.jpg)](https://youtu.be/7f_nmKA1kvI)
+
 
 ## Instalação
 
